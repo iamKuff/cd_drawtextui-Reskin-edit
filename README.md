@@ -2,6 +2,7 @@
 The update introduces a new UI design with dynamic animations and improved functionality for opening and closing the UI, creating a more engaging and visually appealing user experience.
 
 **Video**
+**__Click On Video__**
 [![Video Title](https://i9.ytimg.com/vi_webp/ZSQ89qYbnA4/mq2.webp?sqp=CJT-8aUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgZyg6MA8=&rs=AOn4CLAP972_UsBrtcrwTw6QRPpuPNlqOg)](https://www.youtube.com/watch?v=ZSQ89qYbnA4)
 
 

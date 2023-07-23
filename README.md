@@ -27,7 +27,7 @@ The update introduces a new UI design with dynamic animations and improved funct
 
 [![Video Title](https://i9.ytimg.com/vi_webp/ZSQ89qYbnA4/mq2.webp?sqp=CJT-8aUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgZyg6MA8=&rs=AOn4CLAP972_UsBrtcrwTw6QRPpuPNlqOg)](https://www.youtube.com/watch?v=ZSQ89qYbnA4)
 
-
+__**More Deatailed Changes**__
 **Changes in CSS:**
 
 - Added a new keyframe animation called "fadeInOut" to create a fade-in and fade-out effect with partial opacity.

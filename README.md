@@ -1,6 +1,24 @@
 # cd_drawtextui-Edit
 The update introduces a new UI design with dynamic animations and improved functionality for opening and closing the UI, creating a more engaging and visually appealing user experience.
 
+**__Changes in CSS:__**
+
+Added fade-in and fade-out animations.
+Created wavy container animation.
+Implemented glowing effect with box-shadow.
+Adjusted container size and rounded corners.
+Centered container vertically with rotation.
+Added green flash effect for stash.
+
+**__Changes in JavaScript:__**
+
+Introduced status tracking variables.
+Cleaned up incoming text content.
+Improved UI display with fade-in animation.
+Added green flash effect for stash opening.
+Set automatic UI hide timer.
+Added event handlers for FiveM messages.
+
 **Video**
 
 **__Click On Video__**

@@ -1,7 +1,7 @@
 # cd_drawtextui-Edit
 The update introduces a new UI design with dynamic animations and improved functionality for opening and closing the UI, creating a more engaging and visually appealing user experience.
 
-**__Changes in CSS:__**
+<center>**__Changes in CSS:__**</center>
 
 - Added fade-in and fade-out animations.
 - Created wavy container animation.
@@ -10,7 +10,7 @@ The update introduces a new UI design with dynamic animations and improved funct
 - Centered container vertically with rotation.
 - Added green flash effect for stash.
 
-**__Changes in JavaScript:__**
+<center>**__Changes in JavaScript:__**</center>
 
 - Introduced status tracking variables.
 - Cleaned up incoming text content.

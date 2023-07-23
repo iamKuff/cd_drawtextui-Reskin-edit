@@ -23,7 +23,7 @@ The update introduces a new UI design with dynamic animations and improved funct
 
 **__Click On Video__**
 
-![](https://imgflip.com/gif/7tfzu6)
+![](gifvideo.gif)
 
 [![Video Title](https://i9.ytimg.com/vi_webp/ZSQ89qYbnA4/mq2.webp?sqp=CJT-8aUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgZyg6MA8=&rs=AOn4CLAP972_UsBrtcrwTw6QRPpuPNlqOg)](https://www.youtube.com/watch?v=ZSQ89qYbnA4)
 
